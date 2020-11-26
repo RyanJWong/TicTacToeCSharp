@@ -1,0 +1,13 @@
+C:\Users\ryanj\source\repos\TicTacToeCsharp\TicTacToeCsharp\bin\Debug\netcoreapp3.1\TicTacToeCsharp.exe
+C:\Users\ryanj\source\repos\TicTacToeCsharp\TicTacToeCsharp\bin\Debug\netcoreapp3.1\TicTacToeCsharp.deps.json
+C:\Users\ryanj\source\repos\TicTacToeCsharp\TicTacToeCsharp\bin\Debug\netcoreapp3.1\TicTacToeCsharp.runtimeconfig.json
+C:\Users\ryanj\source\repos\TicTacToeCsharp\TicTacToeCsharp\bin\Debug\netcoreapp3.1\TicTacToeCsharp.runtimeconfig.dev.json
+C:\Users\ryanj\source\repos\TicTacToeCsharp\TicTacToeCsharp\bin\Debug\netcoreapp3.1\TicTacToeCsharp.dll
+C:\Users\ryanj\source\repos\TicTacToeCsharp\TicTacToeCsharp\bin\Debug\netcoreapp3.1\TicTacToeCsharp.pdb
+C:\Users\ryanj\source\repos\TicTacToeCsharp\TicTacToeCsharp\obj\Debug\netcoreapp3.1\TicTacToeCsharp.csprojAssemblyReference.cache
+C:\Users\ryanj\source\repos\TicTacToeCsharp\TicTacToeCsharp\obj\Debug\netcoreapp3.1\TicTacToeCsharp.AssemblyInfoInputs.cache
+C:\Users\ryanj\source\repos\TicTacToeCsharp\TicTacToeCsharp\obj\Debug\netcoreapp3.1\TicTacToeCsharp.AssemblyInfo.cs
+C:\Users\ryanj\source\repos\TicTacToeCsharp\TicTacToeCsharp\obj\Debug\netcoreapp3.1\TicTacToeCsharp.csproj.CoreCompileInputs.cache
+C:\Users\ryanj\source\repos\TicTacToeCsharp\TicTacToeCsharp\obj\Debug\netcoreapp3.1\TicTacToeCsharp.dll
+C:\Users\ryanj\source\repos\TicTacToeCsharp\TicTacToeCsharp\obj\Debug\netcoreapp3.1\TicTacToeCsharp.pdb
+C:\Users\ryanj\source\repos\TicTacToeCsharp\TicTacToeCsharp\obj\Debug\netcoreapp3.1\TicTacToeCsharp.genruntimeconfig.cache
